@@ -79,3 +79,4 @@ Create an EER Model of the completed database structure (Image file is acceptabl
 Make sure to include primary/foreign keys where appropriate
 
 Review the attached work log for additional views/functions required
+
