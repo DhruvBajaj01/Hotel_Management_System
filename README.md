@@ -64,7 +64,7 @@ List the rate for a room at a given time during the year.
 
 # Additional Requirements:
 
-Work in groups of 2 or 3 to complete the work order
+Work in groups of 7 to complete the work order
 
 Each team member must track their work and submit with their final project files (Use the included time-tracker.xlsx file)
 
@@ -80,8 +80,3 @@ Make sure to include primary/foreign keys where appropriate
 
 Review the attached work log for additional views/functions required
 
-# Team Member / Contributor
-* Dhruv Bajaj
-* Piyush Mohan
-* Shubham Patil
-* Mohit Patidar
