@@ -1,4 +1,4 @@
-# Hotel_Management_System
+# Hotel Management System
  DBMS Project
 
 # Details
@@ -80,3 +80,8 @@ Make sure to include primary/foreign keys where appropriate
 
 Review the attached work log for additional views/functions required
 
+## Team members :
+- Mohit Kumar Patidar (RA1911032010039)
+- Dhruv Bajaj (RA1911032010054)
+- Piyush Mohan (RA1911032010056)
+- Shubham Patil (RA1911032010045)
