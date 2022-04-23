@@ -85,3 +85,4 @@ Review the attached work log for additional views/functions required
 - Dhruv Bajaj (RA1911032010054)
 - Piyush Mohan (RA1911032010056)
 - Shubham Patil (RA1911032010045)
+- Harshal Gupta (RA1911032010035)
